@@ -58,7 +58,7 @@
     <div class="card">
         <h1>Hello World, Hem</h1>
         <p>Welcome to your first beautiful HTML + CSS page!</p>
-        <button class="btn">Click Me</button>
+        <button class="btn">Click Me, Not Hi</button>
     </div>
 </body>
 </html>
